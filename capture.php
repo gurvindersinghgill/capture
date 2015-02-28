@@ -2,7 +2,7 @@
 /**
  * PHP script to find content from external page.
  * Find some selected elements by already knowing the xpaths/selector path for those elements
- * gurvinder_test.php 
+ * capture.php 
  *
  */
 
